@@ -33,7 +33,9 @@ I spent three years immersing myself in mathematics, fascinated by the logic and
                     </picture>
                     </a>
 </p>
+
 ### Badges
+
 <b>My GitHub Stats</b>
                     <a
                       href="http://www.github.com/arbindras"><img src="https://github-readme-stats.vercel.app/api?username=arbindras&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arbindras's GitHub stats" /></a><a
